@@ -1,4 +1,3 @@
-# landing-page-TOP
+# Product Landing Page
 
-Product Landing Page
-(A learning project from The Odin Project)
+A learning project from The Odin Project
